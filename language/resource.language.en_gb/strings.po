@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 2.2.3\n"
 
+msgctxt "Addon Summary"
+msgid "No bloatware, just your media with an easy to navigate interface"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "No bloatware, just your media with an easy to navigate interface.[CR]Uses some textures from Mediastream and Aeon skins."
+msgstr ""
+
 msgctxt "#31000"
 msgid "Picture Channels"
 msgstr ""
@@ -3570,4 +3578,8 @@ msgstr ""
 
 msgctxt "#32410"
 msgid "Compact OSD"
+msgstr ""
+
+msgctxt "#32411"
+msgid "Ultra Compact OSD"
 msgstr ""
