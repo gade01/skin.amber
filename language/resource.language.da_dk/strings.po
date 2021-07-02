@@ -22,7 +22,7 @@ msgid "No bloatware, just your media with an easy to navigate interface"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "No bloatware, just your media with an easy to navigate interface.[CR]Uses some textures from Mediastream and Aeon skins."
+msgid "No bloatware, ddjust your media with an easy to navigate interface.[CR]Uses some textures from Mediastream and Aeon skins."
 msgstr ""
 
 msgctxt "#31000"
